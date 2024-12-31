@@ -1,1 +1,1 @@
-Mind you, this repo is intended for an article written in medium. Code and the structure of the notebook is not organized. If you would like to know more about this please reach out to me at santi49fer@gmail.com
+Mind you, this repo is intended for an article written in medium. Code and the structure of the notebook(s) is not organized. If you would like to know more about this please reach out to me at santi49fer@gmail.com
